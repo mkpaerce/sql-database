@@ -1,0 +1,96 @@
+year,country,region,average_hours,gdp_per_capita
+2019,"United States","Western Europe",1817,1.433
+2019,Turkey,"Middle East and Northern Africa",1732,1.183
+2019,Slovenia,"Central and Eastern Europe",1601,1.258
+2019,Slovakia,"Central and Eastern Europe",1692,1.246
+2019,Poland,"Central and Eastern Europe",1783,1.206
+2019,"New Zealand","Australia and New Zealand",1783,1.303
+2019,Mexico,"Latin America and Caribbean",2228,1.07
+2019,Lithuania,"Central and Eastern Europe",1665,1.238
+2019,Latvia,"Central and Eastern Europe",1631,1.187
+2019,Japan,"Eastern Asia",1644,1.327
+2019,Israel,"Middle East and Northern Africa",1895,1.276
+2019,Hungary,"Central and Eastern Europe",1729,1.201
+2019,Estonia,"Central and Eastern Europe",1694,1.237
+2019,Czechia,"Central and Eastern Europe",1786,1.269
+2019,"Costa Rica","Latin America and Caribbean",2059.6,1.034
+2019,Colombia,"Latin America and Caribbean",2383,0.985
+2019,Chile,"Latin America and Caribbean",1940,1.159
+2019,Canada,"Western Europe",1691,1.365
+2019,Australia,"Australia and New Zealand",1651,1.372
+2018,"United States","Western Europe",1826,1.398
+2018,Turkey,"Middle East and Northern Africa",1745,1.148
+2018,Slovenia,"Central and Eastern Europe",1603,1.219
+2018,Slovakia,"Central and Eastern Europe",1704,1.21
+2018,Poland,"Central and Eastern Europe",1787,1.176
+2018,"New Zealand","Australia and New Zealand",1759,1.268
+2018,Mexico,"Latin America and Caribbean",2238,1.038
+2018,Lithuania,"Central and Eastern Europe",1664,1.197
+2018,Latvia,"Central and Eastern Europe",1661,1.148
+2018,Japan,"Eastern Asia",1680,1.294
+2018,Israel,"Middle East and Northern Africa",1911,1.301
+2018,Hungary,"Central and Eastern Europe",1737,1.171
+2018,Estonia,"Central and Eastern Europe",1707,1.2
+2018,Czechia,"Central and Eastern Europe",1785,1.233
+2018,"Costa Rica","Latin America and Caribbean",2121,1.01
+2018,Colombia,"Latin America and Caribbean",2386,0.96
+2018,Chile,"Latin America and Caribbean",1961,1.131
+2018,Canada,"Western Europe",1702,1.33
+2018,Australia,"Australia and New Zealand",1654,1.34
+2017,"United States","Western Europe",1820,1.54625928401947
+2017,Turkey,"Middle East and Northern Africa",1775,1.19827437400818
+2017,Slovenia,"Central and Eastern Europe",1622,1.3412059545517
+2017,Slovakia,"Central and Eastern Europe",1714,1.32539355754852
+2017,Poland,"Central and Eastern Europe",1812,1.29178786277771
+2017,"New Zealand","Australia and New Zealand",1756,1.40570604801178
+2017,Mexico,"Latin America and Caribbean",2238,1.15318381786346
+2017,Lithuania,"Central and Eastern Europe",1657,1.31458234786987
+2017,Latvia,"Central and Eastern Europe",1650,1.26074862480164
+2017,Japan,"Eastern Asia",1709,1.41691517829895
+2017,Israel,"Middle East and Northern Africa",1918,1.37538242340088
+2017,Hungary,"Central and Eastern Europe",1751,1.2860119342804
+2017,Estonia,"Central and Eastern Europe",1768,1.32087934017181
+2017,Czechia,"Central and Eastern Europe",1776,1.35268235206604
+2017,"Costa Rica","Latin America and Caribbean",2178.9,1.10970628261566
+2017,Colombia,"Latin America and Caribbean",2376,1.07062232494354
+2017,Chile,"Latin America and Caribbean",1968,1.25278460979462
+2017,Canada,"Western Europe",1689,1.47920441627502
+2017,Australia,"Australia and New Zealand",1662,1.484414935112
+2016,"United States","Western Europe",1822,1.50796
+2016,Turkey,"Middle East and Northern Africa",1789,1.16492
+2016,Slovenia,"Central and Eastern Europe",1652,1.29947
+2016,Slovakia,"Central and Eastern Europe",1740,1.27973
+2016,Poland,"Central and Eastern Europe",1831,1.24585
+2016,"New Zealand","Australia and New Zealand",1754,1.36066
+2016,Mexico,"Latin America and Caribbean",2238,1.11508
+2016,Lithuania,"Central and Eastern Europe",1694,1.2692
+2016,Latvia,"Central and Eastern Europe",1664,1.21788
+2016,Japan,"Eastern Asia",1714,1.38007
+2016,Israel,"Middle East and Northern Africa",1919,1.33766
+2016,Hungary,"Central and Eastern Europe",1755,1.24142
+2016,Estonia,"Central and Eastern Europe",1767,1.27964
+2016,Czechia,"Central and Eastern Europe",1774,1.30915
+2016,"Costa Rica","Latin America and Caribbean",2204.7,1.06879
+2016,Colombia,"Latin America and Caribbean",2392,1.03032
+2016,Chile,"Latin America and Caribbean",1983,1.2167
+2016,Canada,"Western Europe",1701,1.44015
+2016,Australia,"Australia and New Zealand",1660,1.44443
+2015,"United States","Western Europe",1830,1.39451
+2015,Turkey,"Middle East and Northern Africa",1811,1.06098
+2015,Slovenia,"Central and Eastern Europe",1687,1.18498
+2015,Slovakia,"Central and Eastern Europe",1754,1.16891
+2015,Poland,"Central and Eastern Europe",1829,1.12555
+2015,"New Zealand","Australia and New Zealand",1753,1.25018
+2015,Mexico,"Latin America and Caribbean",2234,1.02054
+2015,Lithuania,"Central and Eastern Europe",1673,1.14723
+2015,Latvia,"Central and Eastern Europe",1663,1.11312
+2015,Japan,"Eastern Asia",1719,1.27074
+2015,Israel,"Middle East and Northern Africa",1894,1.22857
+2015,Hungary,"Central and Eastern Europe",1743,1.12094
+2015,Estonia,"Central and Eastern Europe",1763,1.15174
+2015,Czechia,"Central and Eastern Europe",1751,1.17898
+2015,"Costa Rica","Latin America and Caribbean",2148.2,0.95578
+2015,Colombia,"Latin America and Caribbean",2396,0.91861
+2015,Chile,"Latin America and Caribbean",1999,1.10715
+2015,Canada,"Western Europe",1710,1.32629
+2015,Australia,"Australia and New Zealand",1670,1.33358
